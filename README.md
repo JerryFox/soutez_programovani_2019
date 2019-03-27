@@ -1,1 +1,4 @@
-# soutez_programovani_2019
+# Soutěž v programování 2019
+## Gymnázium Roudnice nad Labem
+
+**[https://docs.google.com/document/d/1kMLx7NP70j_LI3fIHY7MiGs8x0WFU2kSqjgugfY-hjo/edit?usp=sharing](Zadání)**
